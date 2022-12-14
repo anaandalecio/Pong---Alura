@@ -14,4 +14,4 @@ Cada vez que a bolinha é lançada por uma raquete e a outra não consegue tocá
 - Saiber como utilizar em seus projetos um código compartilhado no Github.
 
 # Demonstração:
-![Screenshot](freeway.gif)
+![Gif demonstrativa do Pong](pong.gif)
